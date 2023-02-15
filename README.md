@@ -23,7 +23,7 @@ PREFIX_ENABLED=true
 
 ## Installation
 
-1. Clone this repository
+1. Clone this repository.
 2. Install the required packages by running `npm install`
 3. Put your Email and Password into the .env File (`EMAIL`, `PASSWORD`)
 4. Run the bot using `npm run start`
